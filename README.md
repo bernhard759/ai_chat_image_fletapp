@@ -28,8 +28,8 @@ Follow these steps to get the app up and running on your local machine.
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/bernhard759/aichat_image_app.git
-   cd aichat_image_app
+   git clone https://github.com/bernhard759/ai_chat_image_fletapp.git
+   cd ai_chat_image_fletapp
    ```
 
 2. **Set Up Virtual Environment**:
