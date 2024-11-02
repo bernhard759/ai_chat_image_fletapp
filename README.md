@@ -88,14 +88,6 @@ This app uses Flet for the frontend, Together API for AI functionalities, and do
 - **chat_page.py** and **image_generator_page.py**: Each page is a standalone component, encapsulating layout and functionality.
 - **utils.py**: Contains helper functions like `add_message`, which are reusable in different parts of the project.
 
-
-## Troubleshooting
-
-### Common Issues
-
-- **Permission Issues**: If you encounter permission errors, make sure your virtual environment is activated and you have the necessary permissions to install packages.
-- **Environment Variables**: If the app fails to authenticate with the Together API, double-check that your `.env` file is correctly formatted and contains your API key.
-
 ## Future Enhancements
 
 - Improved error handling and user feedback.
